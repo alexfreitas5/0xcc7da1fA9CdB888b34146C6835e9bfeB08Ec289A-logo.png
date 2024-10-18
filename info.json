@@ -1,0 +1,12 @@
+{
+  "name": "Autism Hero of the Future",
+  "symbol": "AHF",
+  "type": "BEP20",
+  "decimals": 18,
+  "address": "0xcc7da1fA9CdB888b34146C6835e9bfeB08Ec289A",
+  "description": "Token Autism Hero of the Future para ajudar crianças com autismo",
+  "website": "https://seusite.com",
+  "explorer": "https://bscscan.com/token/SEU_ENDERECO_DO_CONTRATO",
+  "status": "active",
+  "id": "ahf-token"
+}
